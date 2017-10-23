@@ -51,4 +51,35 @@ div {
   width: 33%;
 }
 
+span {
+  font-size: 50px;
+}
+
+body section:last-child {
+ margin: 30px 50px 0 50px;
+
+}
+
+img[alt="Laboratoria"]{
+  width:120px;
+}
+
+button {
+  padding: 10px;
+  background-color: #f9a91a;
+  color: #fff;
+  border: 0;
+  border-radius: 10px;
+  font-weight: 600px;
+}
+
+.box-header ul li {
+  margin: 0 15px;
+}
+
+span:hover, .box-header ul li:hover {
+  color: #f9a91a;
+}
+
+
 /*clases específicas*/
